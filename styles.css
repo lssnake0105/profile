@@ -377,6 +377,10 @@ h3 {
   background: #f8fafb;
 }
 
+.photo-cover {
+  object-fit: cover;
+}
+
 .experience-item p {
   margin-bottom: 0;
   color: #3b4652;
