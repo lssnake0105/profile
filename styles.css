@@ -67,6 +67,19 @@ img {
   font-weight: 600;
 }
 
+.cn-name {
+  margin-left: 8px;
+  color: var(--muted);
+  font-size: 0.78em;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.heading-name {
+  display: inline-block;
+  transform: translateY(-1px);
+}
+
 .brand:hover {
   text-decoration: none;
 }
