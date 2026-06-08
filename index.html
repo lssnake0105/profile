@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Shenshi Li academic portfolio and project homepage.">
+  <title>Shenshi Li</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <nav class="nav container" aria-label="Primary navigation">
+      <a class="brand" href="#top">Shenshi Li</a>
+      <div class="nav-links">
+        <a href="#biography">Biography</a>
+        <a href="#interests">Interests</a>
+        <a href="#education">Education</a>
+        <a href="#honors">Honors</a>
+        <a href="#projects">Projects</a>
+        <a href="#other-experience">Experiences</a>
+        <a href="hobbies.html">Beyond Research</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top" class="container page">
+    <section class="intro" aria-label="Profile overview">
+      <aside class="profile">
+        <img class="portrait" src="assets/profile-personal.jpg" alt="Portrait of Shenshi Li">
+        <h1>Shenshi Li</h1>
+        <p class="role">B.Eng. Student in Optoelectronic Information Science and Engineering</p>
+        <p class="affiliation">Zhejiang University</p>
+
+        <div class="profile-links" aria-label="Profile links">
+          <a class="icon-link" href="mailto:3230105050@zju.edu.cn" aria-label="Email">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" role="img">
+                <path d="M4 6h16v12H4z"></path>
+                <path d="m4 7 8 6 8-6"></path>
+              </svg>
+            </span>
+            <span>Email</span>
+          </a>
+          <a class="icon-link" href="https://github.com/lssnake0105" target="_blank" rel="noreferrer" aria-label="GitHub">
+            <span class="icon text-icon" aria-hidden="true">GH</span>
+            <span>GitHub</span>
+          </a>
+          <a class="icon-link" href="assets/Shenshi_Li_CV.pdf" aria-label="Curriculum vitae">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" role="img">
+                <path d="M7 3h7l3 3v15H7z"></path>
+                <path d="M14 3v4h4"></path>
+                <path d="M9 12h6"></path>
+                <path d="M9 16h6"></path>
+              </svg>
+            </span>
+            <span>CV</span>
+          </a>
+        </div>
+      </aside>
+
+      <article id="biography" class="biography">
+        <p class="section-kicker">Biography</p>
+        <h2>About Me</h2>
+        <p>
+          I am an undergraduate researcher interested in computational imaging, machine vision,
+          and optical engineering systems. My recent work focuses on focus-stack 3D
+          reconstruction, defect detection, optical metrology, and project software that can
+          connect experimental design with reproducible analysis.
+        </p>
+        <p>
+          I am currently pursuing a B.Eng. degree at the College of Optical Science and
+          Engineering, Zhejiang University. This site highlights selected research projects,
+          technical tools, awards, coursework, and interests that reflect my academic training
+          and engineering practice.
+        </p>
+        <a class="soft-card full-width-card" href="hobbies.html">
+          <span>Beyond research</span>
+          <strong>Music, photography, and outdoor records</strong>
+        </a>
+      </article>
+    </section>
+
+    <section class="two-column">
+      <div id="interests" class="info-block">
+        <h2>Interests</h2>
+        <ul class="plain-list">
+          <li>Computational imaging and optical metrology</li>
+          <li>Machine vision and image processing</li>
+          <li>Depth-from-focus and 3D reconstruction</li>
+          <li>Surface defect detection for heterogeneous materials</li>
+          <li>Scientific software tools and reproducible documentation</li>
+        </ul>
+      </div>
+
+      <div id="education" class="info-block">
+        <h2>Education</h2>
+        <div class="education-item">
+          <div class="degree">Zhejiang University</div>
+          <div class="school">College of Optical Science and Engineering</div>
+          <div class="school">B.Eng. in Optoelectronic Information Science and Engineering</div>
+          <div class="school">Aug. 2023 - Jun. 2027 expected</div>
+        </div>
+        <div class="education-item">
+          <div class="degree">Academic Performance</div>
+          <div class="school">GPA: 3.94/4.00, 89.8/100; ranked 18/103 in cohort.</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="honors" class="section">
+      <div class="section-heading">
+        <p class="section-kicker">Honors</p>
+        <h2>Awards and Recognition</h2>
+      </div>
+      <p class="language-line"><strong>Language:</strong> TOEFL 108/120; CET-6 598; CET-4 623.</p>
+      <ul class="honor-list">
+        <li><span>2024</span> National Scholarship</li>
+        <li><span>2024 & 2025</span> Zhejiang University First-Class Scholarship</li>
+        <li><span>2025</span> Chen Junshi Outstanding Student Cadre Scholarship</li>
+        <li><span>2024 & 2025</span> Outstanding Student, Zhejiang University</li>
+        <li><span>2024</span> Second Prize, "21st Century Cup" National English Speaking Competition</li>
+        <li><span>2024</span> Second Prize, Zhejiang Undergraduate Physics Innovation Competition</li>
+      </ul>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section-heading">
+        <p class="section-kicker">Featured Projects</p>
+        <h2>Selected Research and Engineering Work</h2>
+      </div>
+
+      <div class="featured-list">
+        <article class="featured-item">
+          <img src="assets/projects/covers/dff-synthetic-panel-web.jpg" alt="Synthetic multisample algorithm panel from focus-stack DFF project">
+          <div>
+            <h3>Focus-Stack DFF Surface Defect Reconstruction</h3>
+            <p>
+              Focus-stack imaging and depth-from-focus pipeline for surface defect visualization,
+              with glare-aware reconstruction, synthetic surface simulation, and real-sample
+              relative reconstruction.
+            </p>
+            <p class="meta">Depth-from-Focus / OpenCV / PyTorch / Simulation</p>
+            <details class="project-details">
+              <summary>Read more</summary>
+              <div class="detail-body">
+                <p>
+                  This project explores multi-material surface defect visualization using focus-stack imaging,
+                  DFF reconstruction, glare-risk modeling, and learning-based depth correction. The public
+                  repository includes reproducible scripts for synthetic surface generation, focus-stack simulation,
+                  glare-aware focus evaluation, and representative comparison figures.
+                </p>
+                <ul>
+                  <li>Built the Python pipeline for synthetic surface generation, focus-stack simulation, DFF reconstruction, and comparison figure generation.</li>
+                  <li>Implemented the project-wide focus-stack height convention and ran algorithm comparisons across traditional and learning-based methods.</li>
+                  <li>Prepared presentation-derived result panels with explicit boundaries between real-sample relative reconstruction and simulated quantitative validation.</li>
+                </ul>
+              </div>
+              <div class="detail-gallery">
+                <img src="assets/projects/covers/dff-detail-surface-web.jpg" alt="Synthetic surface 3D comparison">
+                <img src="assets/projects/covers/dff-detail-real-web.jpg" alt="Real-sample multisample reconstruction panel">
+              </div>
+            </details>
+            <a href="https://github.com/lssnake0105/Industrial-Surface-Texture-Generation-and-Focus-Stack-3D-Reconstruction" target="_blank" rel="noreferrer">View repository</a>
+          </div>
+        </article>
+
+        <article class="featured-item">
+          <img src="assets/projects/covers/solar-detail-gui-web.jpg" alt="GUI comparison view from solar cell crack detection project">
+          <div>
+            <h3>Solar Cell Panel Crack Detection</h3>
+            <p>
+              Machine-vision workflow for crack-like defect detection in solar cell images,
+              combining background correction, SVD reconstruction, morphology, GUI inspection,
+              and a UNet segmentation workflow.
+            </p>
+            <p class="meta">OpenCV / SVD / Tkinter / UNet</p>
+            <details class="project-details">
+              <summary>Read more</summary>
+              <div class="detail-body">
+                <p>
+                  The project combines illumination correction, grid rectification, SVD-based reconstruction,
+                  thresholding, morphology, connected-component filtering, and skeleton/overlay visualization.
+                  A secondary workflow uses manually annotated SVD images to train a lightweight UNet model for
+                  pixel-level crack highlighting.
+                </p>
+                <ul>
+                  <li>Integrated the traditional image-processing workflow for defect enhancement and candidate filtering.</li>
+                  <li>Developed Tkinter GUI tools for parameter tuning, stage-by-stage visualization, and result export.</li>
+                  <li>Added batch processing, HTML report generation, and a segmentation submodule for annotation, training, validation, and overlay inference.</li>
+                </ul>
+              </div>
+              <div class="detail-gallery">
+                <img src="assets/projects/covers/solar-detail-gui-web.jpg" alt="GUI comparison view">
+                <img src="assets/projects/covers/solar-detail-annotation-web.jpg" alt="Manual defect annotation">
+                <img src="assets/projects/covers/solar-detail-skeleton-web.jpg" alt="Skeleton overlay result">
+              </div>
+            </details>
+            <a href="https://github.com/lssnake0105/solar-cell-crack-detection" target="_blank" rel="noreferrer">View repository</a>
+          </div>
+        </article>
+
+        <article class="featured-item">
+          <img src="assets/projects/covers/depth-cover-web.jpg" alt="Laser sample result from depth ratio detector project">
+          <div>
+            <h3>Depth Ratio Detector</h3>
+            <p>
+              Image-analysis utility for measuring circular pore radii from microscopy-style
+              image pairs and calculating depth ratio through OpenCV detection, manual
+              least-squares fitting, and a Tkinter interface.
+            </p>
+            <p class="meta">Circle Detection / Least Squares / OpenCV / Tkinter</p>
+            <details class="project-details">
+              <summary>Read more</summary>
+              <div class="detail-body">
+                <p>
+                  Depth Ratio Detector is an engineering utility for measuring circular pore radii from
+                  top/bottom surface image pairs and calculating the sample depth ratio. It supports automatic
+                  Hough-circle detection, manual least-squares fitting, annotated result export, and repeated
+                  parameter presets for different imaging conditions.
+                </p>
+                <ul>
+                  <li>Implemented the image-processing workflow for circle detection and difficult-image manual fitting.</li>
+                  <li>Built the depth-ratio calculator interface and saved representative radius measurements for comparison.</li>
+                  <li>Organized reusable scripts, parameter presets, representative images, and result samples for portfolio review.</li>
+                </ul>
+              </div>
+              <div class="detail-gallery">
+                <img src="assets/projects/covers/depth-detail-gui-web.jpg" alt="Depth ratio detector GUI screenshot">
+                <img src="assets/projects/covers/depth-detail-bottom-web.jpg" alt="Detected bottom sample result">
+              </div>
+            </details>
+            <a href="https://github.com/lssnake0105/depth-ratio-detector" target="_blank" rel="noreferrer">View repository</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="other-experience" class="section">
+      <div class="section-heading">
+        <p class="section-kicker">Other Projects and Experiences</p>
+        <h2>Additional Academic Work</h2>
+      </div>
+      <div class="experience-list">
+        <article class="experience-item">
+          <div class="experience-date">2025.06 - 2025.07</div>
+          <div>
+            <h3>Mirrorless Camera Lens Design</h3>
+            <p>
+              Conducted optical design in Zemax for the 13th China Undergraduate Optics Design Competition,
+              including structure optimization, athermal analysis, ghost-image review, MTF evaluation,
+              cost and tolerance analysis, lens-barrel assembly planning, and Monte Carlo yield validation.
+            </p>
+          </div>
+        </article>
+        <article class="experience-item">
+          <div class="experience-date">2024.11 - 2025.11</div>
+          <div>
+            <h3>LEGO-Based Fluorescence Microscope</h3>
+            <p>
+              Designed microscope mechanical modules with LEGO Studio, collaborated on Zemax optical-path
+              design, and contributed to a working fluorescence microscope prototype in the ZJU Optics
+              Research Family project.
+            </p>
+          </div>
+        </article>
+        <article class="experience-item">
+          <div class="experience-date">2024.07 - 2024.08</div>
+          <div>
+            <h3>Global ZJU Alumni Tour, U.S.A. Visiting Program</h3>
+            <p>
+              Visited NYU, Columbia, MIT, Harvard, and Yale for short STEM modules and academic exchanges;
+              the team received Second Prize in the program.
+            </p>
+          </div>
+        </article>
+        <article class="experience-item">
+          <div class="experience-date">2024.05 - 2024.09</div>
+          <div>
+            <h3>Qiushi College Research Initiation Camp</h3>
+            <p>
+              Completed research proposal writing, literature review, data visualization analysis, and
+              academic poster preparation during training at the ZJU Center for Electromagnetic Waves.
+            </p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="outputs" class="section outputs">
+      <div class="section-heading">
+        <p class="section-kicker">Selected Outputs</p>
+        <h2>Resources</h2>
+      </div>
+      <ul class="resource-list">
+        <li><a href="https://github.com/lssnake0105" target="_blank" rel="noreferrer">GitHub repositories</a></li>
+        <li><a href="assets/Shenshi_Li_CV.pdf">Curriculum vitae</a></li>
+        <li>Research training projects in DFF reconstruction, optical metrology, and image processing.</li>
+        <li>Technical reports, competition materials, and project documentation available upon request.</li>
+      </ul>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="section-heading">
+        <p class="section-kicker">Skills and Coursework</p>
+        <h2>Technical Preparation</h2>
+      </div>
+      <div class="text-columns">
+        <p><strong>Coding and engineering software:</strong> C/C++, Python, MATLAB, SolidWorks, Zemax, AutoCAD, OpenCV, and PyTorch-based project workflows.</p>
+        <p><strong>Writing and design:</strong> LaTeX, Markdown, Overleaf, Obsidian, Office, Photoshop, Canva, Xiumi, and CapCut for reports and multimedia assets.</p>
+      </div>
+      <p class="course-line">
+        <strong>Selected coursework:</strong> Silicon Photonics 96/100; Electromagnetic Fields and Waves 94/100;
+        Physical Optics 92/100; Computer-Aided Optical System Design 93/100; Machine Vision and Image Processing 92/100.
+      </p>
+    </section>
+
+    <section id="contact" class="section contact">
+      <div class="section-heading">
+        <p class="section-kicker">Contact</p>
+        <h2>Get in Touch</h2>
+      </div>
+      <p>
+        For research opportunities, project discussion, or application review, please contact
+        <a href="mailto:3230105050@zju.edu.cn">3230105050@zju.edu.cn</a> or
+        <a href="mailto:lssnake0105@outlook.com">lssnake0105@outlook.com</a>. Code and project notes are available at
+        <a href="https://github.com/lssnake0105" target="_blank" rel="noreferrer">github.com/lssnake0105</a>.
+      </p>
+    </section>
+  </main>
+
+  <footer class="footer container">
+    <p>&copy; 2026 Shenshi Li.</p>
+  </footer>
+</body>
+</html>
