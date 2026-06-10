@@ -233,6 +233,14 @@ h3 {
   max-width: 760px;
 }
 
+.contact-lines span {
+  display: block;
+}
+
+.contact-lines span + span {
+  margin-top: 4px;
+}
+
 .soft-card {
   display: grid;
   gap: 4px;
