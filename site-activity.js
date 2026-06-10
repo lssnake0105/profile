@@ -1,5 +1,6 @@
 (function () {
-  const GOATCOUNTER_CODE = "";
+  const GOATCOUNTER_CODE = "lssnake0105";
+  const GOATCOUNTER_ENDPOINT = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
   const PRODUCTION_HOST = "lssnake0105.github.io";
   const counter = document.querySelector("[data-visit-count]");
   const note = document.querySelector("[data-visit-note]");
@@ -25,7 +26,8 @@
   window.goatcounter.no_onload = true;
 
   const script = document.createElement("script");
-  script.src = `https://${GOATCOUNTER_CODE}.goatcounter.com/count.js`;
+  script.dataset.goatcounter = GOATCOUNTER_ENDPOINT;
+  script.src = "https://gc.zgo.at/count.js";
   script.async = true;
   script.onload = function () {
     if (!window.goatcounter || typeof window.goatcounter.visit_count !== "function") {
@@ -39,6 +41,7 @@
       event: true
     });
 
+    counter.textContent = "";
     window.goatcounter.visit_count({
       append: "[data-visit-count]",
       path: "TOTAL",
