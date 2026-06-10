@@ -12,6 +12,16 @@
     if (note && detail) note.textContent = detail;
   }
 
+  function sanitizeCounterOutput() {
+    const text = counter.textContent.trim();
+    if (text.includes("Error 403") || text.includes("Home")) {
+      setStatus(
+        "Visit count unavailable",
+        "Enable public visitor counts in GoatCounter settings to display this number."
+      );
+    }
+  }
+
   if (window.location.hostname !== PRODUCTION_HOST) {
     setStatus("Local preview", "Visit counting is enabled only on the public GitHub Pages site.");
     return;
@@ -47,6 +57,7 @@
       path: "TOTAL",
       no_branding: true
     });
+    window.setTimeout(sanitizeCounterOutput, 1500);
   };
   script.onerror = function () {
     setStatus("Visit count unavailable", "The counter script could not be loaded.");
