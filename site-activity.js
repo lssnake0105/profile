@@ -1,6 +1,7 @@
 (function () {
   const GOATCOUNTER_CODE = "lssnake0105";
   const GOATCOUNTER_ENDPOINT = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
+  const VISIT_COUNT_ENDPOINT = `https://${GOATCOUNTER_CODE}.goatcounter.com/counter/TOTAL.json`;
   const PRODUCTION_HOST = "lssnake0105.github.io";
   const counter = document.querySelector("[data-visit-count]");
   const note = document.querySelector("[data-visit-note]");
@@ -12,14 +13,22 @@
     if (note && detail) note.textContent = detail;
   }
 
-  function sanitizeCounterOutput() {
-    const text = counter.textContent.trim();
-    if (text.includes("Error 403") || text.includes("Home")) {
-      setStatus(
-        "Visit count unavailable",
-        "Enable public visitor counts in GoatCounter settings to display this number."
-      );
-    }
+  function renderVisitCount() {
+    window
+      .fetch(VISIT_COUNT_ENDPOINT)
+      .then(function (response) {
+        if (!response.ok) throw new Error("counter unavailable");
+        return response.json();
+      })
+      .then(function (data) {
+        counter.textContent = data && data.count ? data.count : "Visit count unavailable";
+      })
+      .catch(function () {
+        setStatus(
+          "Visit count unavailable",
+          "Enable public visitor counts in GoatCounter settings to display this number."
+        );
+      });
   }
 
   if (window.location.hostname !== PRODUCTION_HOST) {
@@ -51,13 +60,7 @@
       event: true
     });
 
-    counter.textContent = "";
-    window.goatcounter.visit_count({
-      append: "[data-visit-count]",
-      path: "TOTAL",
-      no_branding: true
-    });
-    window.setTimeout(sanitizeCounterOutput, 1500);
+    renderVisitCount();
   };
   script.onerror = function () {
     setStatus("Visit count unavailable", "The counter script could not be loaded.");
