@@ -1,0 +1,635 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/i0mawx",
+    "id": "i0mawx",
+    "slide": 14,
+    "layoutId": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bb416300-433a-4966-b937-16719a03f867",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "2",
+      "bbox": [
+        980,
+        -90,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E1F4F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "3",
+      "bbox": [
+        -120,
+        515,
+        300,
+        300
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#EAF1F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "4",
+      "bbox": [
+        54,
+        48,
+        78,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "5",
+      "bbox": [
+        140,
+        48,
+        1086,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D7E3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "6",
+      "bbox": [
+        54,
+        70,
+        900,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Backup: Micro-hole measurement software supports both automatic detection and manual fitting for difficult images.",
+      "textPreview": "Backup: Micro-hole measurement software supports both automatic detection and manual fitting for difficult images.",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Backup: Micro-hole measurement software supports both automatic"
+          },
+          {
+            "index": 2,
+            "text": "detection and manual fitting for difficult images."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Backup: Micro-hole measurement software supports both automatic detection and manual fitting for difficult images.",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Backup: Micro-hole measurement software supports both automatic detection and manual fitting for difficult images.",
+              "fontSize": 31,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "7",
+      "bbox": [
+        56,
+        146,
+        880,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Backup 2",
+      "textPreview": "Backup 2",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5E7184",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Backup 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Backup 2",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5E7184",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Backup 2",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5E7184"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "8",
+      "bbox": [
+        54,
+        682,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | ZJU Optics | June 2026",
+      "textPreview": "Shenshi Li | ZJU Optics | June 2026",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | ZJU Optics | June 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | ZJU Optics | June 2026",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | ZJU Optics | June 2026",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "9",
+      "bbox": [
+        1160,
+        682,
+        66,
+        18
+      ],
+      "geometry": "rect",
+      "text": "14/16",
+      "textPreview": "14/16",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14/16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14/16",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14/16",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/n29gr2p8",
+      "id": "10",
+      "bbox": [
+        78,
+        194,
+        510,
+        330
+      ],
+      "alt": "Depth ratio detector GUI",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "c8dae967-8c13-489c-bd08-109d665be19c",
+        "contentType": "image/jpeg",
+        "byteLength": 118693
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yhgn29gr",
+      "id": "11",
+      "bbox": [
+        642,
+        204,
+        230,
+        150
+      ],
+      "alt": "Bottom aperture detection",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "8a861953-c691-4b72-a643-8689bb7e5ffc",
+        "contentType": "image/jpeg",
+        "byteLength": 81057
+      }
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/58z25kb6",
+      "id": "12",
+      "bbox": [
+        910,
+        204,
+        230,
+        150
+      ],
+      "alt": "Depth ratio detector result",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "76a95b73-5cf6-4d5c-b1db-6379cd70ea49",
+        "contentType": "image/jpeg",
+        "byteLength": 189301
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "13",
+      "bbox": [
+        642,
+        402,
+        498,
+        112
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "14",
+      "bbox": [
+        670,
+        424,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Implementation details",
+      "textPreview": "Implementation details",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Implementation details"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Implementation details",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Implementation details",
+              "fontSize": 18,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "15",
+      "bbox": [
+        670,
+        462,
+        410,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Hough circle transform, least-squares fitting, annotated exports, parameter presets, and automatic aspect-ratio computation.",
+      "textPreview": "Hough circle transform, least-squares fitting, annotated exports, parameter presets, and automatic aspect-ratio computation.",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hough circle transform, least-squares fitting, annotated exports,"
+          },
+          {
+            "index": 2,
+            "text": "parameter presets, and automatic aspect-ratio computation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hough circle transform, least-squares fitting, annotated exports, parameter presets, and automatic aspect-ratio computation.",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hough circle transform, least-squares fitting, annotated exports, parameter presets, and automatic aspect-ratio computation.",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

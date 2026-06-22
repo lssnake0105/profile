@@ -1,0 +1,1302 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jk6wu8",
+    "id": "jk6wu8",
+    "slide": 11,
+    "layoutId": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bb416300-433a-4966-b937-16719a03f867",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "2",
+      "bbox": [
+        980,
+        -90,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E1F4F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "3",
+      "bbox": [
+        -120,
+        515,
+        300,
+        300
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#EAF1F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "4",
+      "bbox": [
+        54,
+        48,
+        78,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "5",
+      "bbox": [
+        140,
+        48,
+        1086,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D7E3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "6",
+      "bbox": [
+        54,
+        70,
+        900,
+        92
+      ],
+      "geometry": "rect",
+      "text": "The next step I want to learn is how to co-design optics, capture, and reconstruction under real experimental constraints.",
+      "textPreview": "The next step I want to learn is how to co-design optics, capture, and reconstruction under real experimental constraints.",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The next step I want to learn is how to co-design optics, capture, and"
+          },
+          {
+            "index": 2,
+            "text": "reconstruction under real experimental constraints."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The next step I want to learn is how to co-design optics, capture, and reconstruction under real experimental constraints.",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The next step I want to learn is how to co-design optics, capture, and reconstruction under real experimental constraints.",
+              "fontSize": 31,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "7",
+      "bbox": [
+        56,
+        165,
+        880,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Near-term research questions",
+      "textPreview": "Near-term research questions",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5E7184",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Near-term research questions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Near-term research questions",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5E7184",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Near-term research questions",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5E7184"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "8",
+      "bbox": [
+        54,
+        682,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | ZJU Optics | June 2026",
+      "textPreview": "Shenshi Li | ZJU Optics | June 2026",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | ZJU Optics | June 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | ZJU Optics | June 2026",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | ZJU Optics | June 2026",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "9",
+      "bbox": [
+        1160,
+        682,
+        66,
+        18
+      ],
+      "geometry": "rect",
+      "text": "11/16",
+      "textPreview": "11/16",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11/16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11/16",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11/16",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "10",
+      "bbox": [
+        92,
+        250,
+        310,
+        250
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvy90je9",
+      "id": "11",
+      "bbox": [
+        118,
+        276,
+        52,
+        52
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "12",
+      "bbox": [
+        118,
+        291,
+        52,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Q1",
+      "textPreview": "Q1",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q1",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q1",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8nqxs7",
+      "id": "13",
+      "bbox": [
+        188,
+        282,
+        176,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Focus / defocus cues",
+      "textPreview": "Focus / defocus cues",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Focus / defocus cues"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Focus / defocus cues",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Focus / defocus cues",
+              "fontSize": 19,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "14",
+      "bbox": [
+        126,
+        358,
+        242,
+        84
+      ],
+      "geometry": "rect",
+      "text": "How can focus and defocus cues be integrated with learned optics for more robust 3D perception?",
+      "textPreview": "How can focus and defocus cues be integrated with learned optics for more robust 3D perception?",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How can focus and defocus cues"
+          },
+          {
+            "index": 2,
+            "text": "be integrated with learned optics"
+          },
+          {
+            "index": 3,
+            "text": "for more robust 3D perception?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How can focus and defocus cues be integrated with learned optics for more robust 3D perception?",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How can focus and defocus cues be integrated with learned optics for more robust 3D perception?",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "15",
+      "bbox": [
+        462,
+        250,
+        310,
+        250
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "16",
+      "bbox": [
+        488,
+        276,
+        52,
+        52
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F28C28",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "17",
+      "bbox": [
+        488,
+        291,
+        52,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Q2",
+      "textPreview": "Q2",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q2",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q2",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9w3m94fu",
+      "id": "18",
+      "bbox": [
+        558,
+        282,
+        176,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Physical priors",
+      "textPreview": "Physical priors",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Physical priors"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Physical priors",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Physical priors",
+              "fontSize": 19,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6xkf6d",
+      "id": "19",
+      "bbox": [
+        496,
+        358,
+        242,
+        84
+      ],
+      "geometry": "rect",
+      "text": "How can physical priors improve reconstruction on reflective or heterogeneous surfaces?",
+      "textPreview": "How can physical priors improve reconstruction on reflective or heterogeneous surfaces?",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How can physical priors improve"
+          },
+          {
+            "index": 2,
+            "text": "reconstruction on reflective or"
+          },
+          {
+            "index": 3,
+            "text": "heterogeneous surfaces?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How can physical priors improve reconstruction on reflective or heterogeneous surfaces?",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How can physical priors improve reconstruction on reflective or heterogeneous surfaces?",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "20",
+      "bbox": [
+        832,
+        250,
+        310,
+        250
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "21",
+      "bbox": [
+        858,
+        276,
+        52,
+        52
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#18A999",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "22",
+      "bbox": [
+        858,
+        291,
+        52,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Q3",
+      "textPreview": "Q3",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Q3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Q3",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Q3",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "23",
+      "bbox": [
+        928,
+        282,
+        176,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Calibration and data",
+      "textPreview": "Calibration and data",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Calibration and data"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Calibration and data",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Calibration and data",
+              "fontSize": 19,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nuxc3yl",
+      "id": "24",
+      "bbox": [
+        866,
+        358,
+        242,
+        84
+      ],
+      "geometry": "rect",
+      "text": "What experimental calibration and data-acquisition habits are essential for optics-AI systems?",
+      "textPreview": "What experimental calibration and data-acquisition habits are essential for optics-AI systems?",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What experimental calibration"
+          },
+          {
+            "index": 2,
+            "text": "and data-acquisition habits are"
+          },
+          {
+            "index": 3,
+            "text": "essential for optics-AI systems?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What experimental calibration and data-acquisition habits are essential for optics-AI systems?",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What experimental calibration and data-acquisition habits are essential for optics-AI systems?",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8nqxs72",
+      "id": "25",
+      "bbox": [
+        176,
+        560,
+        850,
+        58
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EFF7FA",
+      "lineColor": "#CBE3EC",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "26",
+      "bbox": [
+        206,
+        578,
+        140,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Discussion goal",
+      "textPreview": "Discussion goal",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos Mono",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Discussion goal"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Discussion goal",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos Mono",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Discussion goal",
+              "fontSize": 14,
+              "typeface": "Aptos Mono",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72x4nap4",
+      "id": "27",
+      "bbox": [
+        356,
+        577,
+        610,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Use the meeting to learn what preparation would be most valuable for PhD / RA / visiting research opportunities.",
+      "textPreview": "Use the meeting to learn what preparation would be most valuable for PhD / RA / visiting research opportunities.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use the meeting to learn what preparation would be most valuable for PhD / RA / visiting research"
+          },
+          {
+            "index": 2,
+            "text": "opportunities."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use the meeting to learn what preparation would be most valuable for PhD / RA / visiting research opportunities.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use the meeting to learn what preparation would be most valuable for PhD / RA / visiting research opportunities.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

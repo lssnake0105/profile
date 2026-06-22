@@ -1,0 +1,952 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/c27bj4",
+    "id": "c27bj4",
+    "slide": 12,
+    "layoutId": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bb416300-433a-4966-b937-16719a03f867",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "2",
+      "bbox": [
+        980,
+        -90,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E1F4F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "3",
+      "bbox": [
+        -120,
+        515,
+        300,
+        300
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#EAF1F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "4",
+      "bbox": [
+        54,
+        48,
+        78,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "5",
+      "bbox": [
+        140,
+        48,
+        1086,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D7E3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "6",
+      "bbox": [
+        54,
+        70,
+        900,
+        92
+      ],
+      "geometry": "rect",
+      "text": "I would appreciate feedback on whether my preparation fits current PhD, RA, or visiting research directions.",
+      "textPreview": "I would appreciate feedback on whether my preparation fits current PhD, RA, or visiting research directions.",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "I would appreciate feedback on whether my preparation fits current"
+          },
+          {
+            "index": 2,
+            "text": "PhD, RA, or visiting research directions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "I would appreciate feedback on whether my preparation fits current PhD, RA, or visiting research directions.",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "I would appreciate feedback on whether my preparation fits current PhD, RA, or visiting research directions.",
+              "fontSize": 31,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "7",
+      "bbox": [
+        56,
+        165,
+        880,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Closing",
+      "textPreview": "Closing",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5E7184",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Closing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Closing",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5E7184",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Closing",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5E7184"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "8",
+      "bbox": [
+        54,
+        682,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | ZJU Optics | June 2026",
+      "textPreview": "Shenshi Li | ZJU Optics | June 2026",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | ZJU Optics | June 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | ZJU Optics | June 2026",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | ZJU Optics | June 2026",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "9",
+      "bbox": [
+        1160,
+        682,
+        66,
+        18
+      ],
+      "geometry": "rect",
+      "text": "12/16",
+      "textPreview": "12/16",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12/16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12/16",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12/16",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "10",
+      "bbox": [
+        96,
+        224,
+        430,
+        294
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zed8v6ps",
+      "id": "11",
+      "bbox": [
+        124,
+        260,
+        340,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Thank you.",
+      "textPreview": "Thank you.",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 44,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Thank you."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Thank you.",
+          "resolvedTextStyle": {
+            "fontSize": 44,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Thank you.",
+              "fontSize": 44,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "12",
+      "bbox": [
+        128,
+        350,
+        328,
+        72
+      ],
+      "geometry": "rect",
+      "text": "I am happy to share transcripts, project reports, source code, or additional result figures after the meeting.",
+      "textPreview": "I am happy to share transcripts, project reports, source code, or additional result figures after the meeting.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "I am happy to share transcripts, project"
+          },
+          {
+            "index": 2,
+            "text": "reports, source code, or additional result"
+          },
+          {
+            "index": 3,
+            "text": "figures after the meeting."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "I am happy to share transcripts, project reports, source code, or additional result figures after the meeting.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "I am happy to share transcripts, project reports, source code, or additional result figures after the meeting.",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "13",
+      "bbox": [
+        128,
+        456,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | Zhejiang University",
+      "textPreview": "Shenshi Li | Zhejiang University",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | Zhejiang University"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | Zhejiang University",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | Zhejiang University",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "14",
+      "bbox": [
+        594,
+        224,
+        520,
+        294
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0B1F33",
+      "lineColor": "#0B1F33",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "15",
+      "bbox": [
+        634,
+        260,
+        430,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Contact and materials",
+      "textPreview": "Contact and materials",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Aptos Display",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Contact and materials"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Contact and materials",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Aptos Display",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Contact and materials",
+              "fontSize": 25,
+              "typeface": "Aptos Display",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "16",
+      "bbox": [
+        636,
+        322,
+        410,
+        116
+      ],
+      "geometry": "rect",
+      "text": "Email: 3230105050@zju.edu.cn\nPersonal website: https://lssnake0105.github.io/profile/\nGitHub: https://github.com/lssnake0105\nCV: available from the personal website",
+      "textPreview": "Email: 3230105050@zju.edu.cn | Personal website: https://lssnake0105.github.io/profile/ | GitHub: https://github.com/lssnake0105 | CV: av...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#DDEEF4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Email: 3230105050@zju.edu.cn"
+          },
+          {
+            "index": 2,
+            "text": "Personal website: https://lssnake0105.github.io/profile/"
+          },
+          {
+            "index": 3,
+            "text": "GitHub: https://github.com/lssnake0105"
+          },
+          {
+            "index": 4,
+            "text": "CV: available from the personal website"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Email: 3230105050@zju.edu.cn",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#DDEEF4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Email: 3230105050@zju.edu.cn",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#DDEEF4"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Personal website: https://lssnake0105.github.io/profile/",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#DDEEF4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Personal website: https://lssnake0105.github.io/profile/",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#DDEEF4"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "GitHub: https://github.com/lssnake0105",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#DDEEF4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GitHub: https://github.com/lssnake0105",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#DDEEF4"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "CV: available from the personal website",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#DDEEF4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CV: available from the personal website",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#DDEEF4"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwfyxobm",
+      "id": "17",
+      "bbox": [
+        634,
+        458,
+        408,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "18",
+      "bbox": [
+        636,
+        478,
+        408,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Focus areas: computational imaging, optical metrology, 3D reconstruction, optics-AI co-design.",
+      "textPreview": "Focus areas: computational imaging, optical metrology, 3D reconstruction, optics-AI co-design.",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.51,
+        "typeface": "Aptos",
+        "color": "#B9D7E1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Focus areas: computational imaging, optical metrology, 3D reconstruction,"
+          },
+          {
+            "index": 2,
+            "text": "optics-AI co-design."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Focus areas: computational imaging, optical metrology, 3D reconstruction, optics-AI co-design.",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Aptos",
+            "color": "#B9D7E1",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Focus areas: computational imaging, optical metrology, 3D reconstruction, optics-AI co-design.",
+              "fontSize": 13.51,
+              "typeface": "Aptos",
+              "color": "#B9D7E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

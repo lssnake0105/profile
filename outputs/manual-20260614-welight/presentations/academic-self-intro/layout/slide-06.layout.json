@@ -1,0 +1,1202 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/78ha8g",
+    "id": "78ha8g",
+    "slide": 6,
+    "layoutId": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bb416300-433a-4966-b937-16719a03f867",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "2",
+      "bbox": [
+        980,
+        -90,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E1F4F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "3",
+      "bbox": [
+        -120,
+        515,
+        300,
+        300
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#EAF1F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "4",
+      "bbox": [
+        54,
+        48,
+        78,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "5",
+      "bbox": [
+        140,
+        48,
+        1086,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D7E3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "6",
+      "bbox": [
+        54,
+        70,
+        900,
+        94
+      ],
+      "geometry": "rect",
+      "text": "I built the reproducible pipeline and separated simulated quantitative validation from real-sample relative reconstruction.",
+      "textPreview": "I built the reproducible pipeline and separated simulated quantitative validation from real-sample relative reconstruction.",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "I built the reproducible pipeline and separated simulated quantitative"
+          },
+          {
+            "index": 2,
+            "text": "validation from real-sample relative reconstruction."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "I built the reproducible pipeline and separated simulated quantitative validation from real-sample relative reconstruction.",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "I built the reproducible pipeline and separated simulated quantitative validation from real-sample relative reconstruction.",
+              "fontSize": 31,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "7",
+      "bbox": [
+        56,
+        166,
+        880,
+        38
+      ],
+      "geometry": "rect",
+      "text": "DFF results and contribution",
+      "textPreview": "DFF results and contribution",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5E7184",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DFF results and contribution"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DFF results and contribution",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5E7184",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DFF results and contribution",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5E7184"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "8",
+      "bbox": [
+        54,
+        682,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | ZJU Optics | June 2026",
+      "textPreview": "Shenshi Li | ZJU Optics | June 2026",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | ZJU Optics | June 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | ZJU Optics | June 2026",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | ZJU Optics | June 2026",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "9",
+      "bbox": [
+        1160,
+        682,
+        66,
+        18
+      ],
+      "geometry": "rect",
+      "text": "6/16",
+      "textPreview": "6/16",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6/16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6/16",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6/16",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/65wjudg7",
+      "id": "10",
+      "bbox": [
+        66,
+        214,
+        374,
+        252
+      ],
+      "alt": "Simulated surface reconstruction",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "97d7170c-04ff-4e1a-8aa3-62a347521291",
+        "contentType": "image/jpeg",
+        "byteLength": 73288
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zqtcj6to",
+      "id": "11",
+      "bbox": [
+        468,
+        214,
+        374,
+        252
+      ],
+      "alt": "Real sample reconstruction",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "d05b5c08-6a52-4295-9ac8-8f681a1e8dd0",
+        "contentType": "image/jpeg",
+        "byteLength": 147154
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "12",
+      "bbox": [
+        878,
+        214,
+        300,
+        252
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "13",
+      "bbox": [
+        906,
+        240,
+        250,
+        18
+      ],
+      "geometry": "rect",
+      "text": "MY ROLE",
+      "textPreview": "MY ROLE",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos Mono",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MY ROLE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MY ROLE",
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos Mono",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MY ROLE",
+              "fontSize": 10.51,
+              "typeface": "Aptos Mono",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "14",
+      "bbox": [
+        906,
+        281,
+        7,
+        7
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "15",
+      "bbox": [
+        922,
+        274,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Built Python pipeline for synthetic surface generation and focus-stack simulation.",
+      "textPreview": "Built Python pipeline for synthetic surface generation and focus-stack simulation.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Built Python pipeline for synthetic surface"
+          },
+          {
+            "index": 2,
+            "text": "generation and focus-stack simulation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Built Python pipeline for synthetic surface generation and focus-stack simulation.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Built Python pipeline for synthetic surface generation and focus-stack simulation.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "16",
+      "bbox": [
+        906,
+        333,
+        7,
+        7
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#18A999",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "17",
+      "bbox": [
+        922,
+        326,
+        240,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Implemented the project-wide focus-stack height convention.",
+      "textPreview": "Implemented the project-wide focus-stack height convention.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Implemented the project-wide focus-stack"
+          },
+          {
+            "index": 2,
+            "text": "height convention."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Implemented the project-wide focus-stack height convention.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Implemented the project-wide focus-stack height convention.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "18",
+      "bbox": [
+        906,
+        381,
+        7,
+        7
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F28C28",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "19",
+      "bbox": [
+        922,
+        374,
+        240,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Ran traditional and learning-based algorithm comparisons.",
+      "textPreview": "Ran traditional and learning-based algorithm comparisons.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ran traditional and learning-based"
+          },
+          {
+            "index": 2,
+            "text": "algorithm comparisons."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ran traditional and learning-based algorithm comparisons.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ran traditional and learning-based algorithm comparisons.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "20",
+      "bbox": [
+        906,
+        429,
+        7,
+        7
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#6A6FB3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "21",
+      "bbox": [
+        922,
+        422,
+        240,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Prepared figures with explicit real/simulated evidence boundaries.",
+      "textPreview": "Prepared figures with explicit real/simulated evidence boundaries.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Prepared figures with explicit"
+          },
+          {
+            "index": 2,
+            "text": "real/simulated evidence boundaries."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Prepared figures with explicit real/simulated evidence boundaries.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prepared figures with explicit real/simulated evidence boundaries.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "22",
+      "bbox": [
+        66,
+        510,
+        528,
+        80
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EFF7FA",
+      "lineColor": "#CBE3EC",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "23",
+      "bbox": [
+        92,
+        530,
+        180,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Simulated validation",
+      "textPreview": "Simulated validation",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Simulated validation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Simulated validation",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Simulated validation",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "24",
+      "bbox": [
+        270,
+        529,
+        290,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Used for controlled comparison because ground-truth-like surface information can be specified.",
+      "textPreview": "Used for controlled comparison because ground-truth-like surface information can be specified.",
+      "resolvedFontSize": 13.8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.8,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Used for controlled comparison because"
+          },
+          {
+            "index": 2,
+            "text": "ground-truth-like surface information can be"
+          },
+          {
+            "index": 3,
+            "text": "specified."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Used for controlled comparison because ground-truth-like surface information can be specified.",
+          "resolvedTextStyle": {
+            "fontSize": 13.8,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Used for controlled comparison because ground-truth-like surface information can be specified.",
+              "fontSize": 13.8,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "25",
+      "bbox": [
+        650,
+        510,
+        528,
+        80
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFF7ED",
+      "lineColor": "#EED5B6",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "26",
+      "bbox": [
+        676,
+        530,
+        180,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Real-sample results",
+      "textPreview": "Real-sample results",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#A86016",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Real-sample results"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Real-sample results",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#A86016",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Real-sample results",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#A86016",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "27",
+      "bbox": [
+        850,
+        529,
+        290,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Presented as relative reconstruction and visual evidence under real imaging constraints.",
+      "textPreview": "Presented as relative reconstruction and visual evidence under real imaging constraints.",
+      "resolvedFontSize": 13.8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.8,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Presented as relative reconstruction and visual"
+          },
+          {
+            "index": 2,
+            "text": "evidence under real imaging constraints."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Presented as relative reconstruction and visual evidence under real imaging constraints.",
+          "resolvedTextStyle": {
+            "fontSize": 13.8,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Presented as relative reconstruction and visual evidence under real imaging constraints.",
+              "fontSize": 13.8,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

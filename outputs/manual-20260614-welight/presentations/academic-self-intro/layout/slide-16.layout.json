@@ -1,0 +1,1491 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/i4qovn",
+    "id": "i4qovn",
+    "slide": 16,
+    "layoutId": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "23f5d2e5-221b-490e-b3e3-e10e6cb7d26f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bb416300-433a-4966-b937-16719a03f867",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bb416300-433a-4966-b937-16719a03f867",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "2",
+      "bbox": [
+        980,
+        -90,
+        360,
+        360
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E1F4F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "3",
+      "bbox": [
+        -120,
+        515,
+        300,
+        300
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#EAF1F7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "4",
+      "bbox": [
+        54,
+        48,
+        78,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#12A7C8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobm58z2",
+      "id": "5",
+      "bbox": [
+        140,
+        48,
+        1086,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D7E3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxs72x4n",
+      "id": "6",
+      "bbox": [
+        54,
+        70,
+        900,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Backup: Selected coursework, outputs, and links support the academic preparation claim.",
+      "textPreview": "Backup: Selected coursework, outputs, and links support the academic preparation claim.",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Backup: Selected coursework, outputs, and links support the"
+          },
+          {
+            "index": 2,
+            "text": "academic preparation claim."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Backup: Selected coursework, outputs, and links support the academic preparation claim.",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Backup: Selected coursework, outputs, and links support the academic preparation claim.",
+              "fontSize": 31,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "7",
+      "bbox": [
+        56,
+        146,
+        880,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Backup 4",
+      "textPreview": "Backup 4",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5E7184",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Backup 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Backup 4",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5E7184",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Backup 4",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5E7184"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "8",
+      "bbox": [
+        54,
+        682,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Shenshi Li | ZJU Optics | June 2026",
+      "textPreview": "Shenshi Li | ZJU Optics | June 2026",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Shenshi Li | ZJU Optics | June 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Shenshi Li | ZJU Optics | June 2026",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shenshi Li | ZJU Optics | June 2026",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "9",
+      "bbox": [
+        1160,
+        682,
+        66,
+        18
+      ],
+      "geometry": "rect",
+      "text": "16/16",
+      "textPreview": "16/16",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#6E8090",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16/16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16/16",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#6E8090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16/16",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#6E8090"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "10",
+      "bbox": [
+        78,
+        200,
+        506,
+        330
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "11",
+      "bbox": [
+        108,
+        230,
+        380,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Coursework highlights",
+      "textPreview": "Coursework highlights",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Coursework highlights"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Coursework highlights",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Coursework highlights",
+              "fontSize": 22,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "12",
+      "bbox": [
+        110,
+        280,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Silicon Photonics",
+      "textPreview": "Silicon Photonics",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Silicon Photonics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Silicon Photonics",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Silicon Photonics",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "13",
+      "bbox": [
+        472,
+        280,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "96/100",
+      "textPreview": "96/100",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "96/100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "96/100",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "96/100",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "14",
+      "bbox": [
+        110,
+        322,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Electromagnetic Fields and Waves",
+      "textPreview": "Electromagnetic Fields and Waves",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Electromagnetic Fields and Waves"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Electromagnetic Fields and Waves",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Electromagnetic Fields and Waves",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmhk3q5",
+      "id": "15",
+      "bbox": [
+        472,
+        322,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "94/100",
+      "textPreview": "94/100",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "94/100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "94/100",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "94/100",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "16",
+      "bbox": [
+        110,
+        364,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Physical Optics",
+      "textPreview": "Physical Optics",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Physical Optics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Physical Optics",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Physical Optics",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "17",
+      "bbox": [
+        472,
+        364,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "92/100",
+      "textPreview": "92/100",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "92/100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "92/100",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "92/100",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "18",
+      "bbox": [
+        110,
+        406,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Computer-Aided Optical System Design",
+      "textPreview": "Computer-Aided Optical System Design",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Computer-Aided Optical System Design"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Computer-Aided Optical System Design",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Computer-Aided Optical System Design",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "19",
+      "bbox": [
+        472,
+        406,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "93/100",
+      "textPreview": "93/100",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "93/100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "93/100",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "93/100",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "20",
+      "bbox": [
+        110,
+        448,
+        330,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Machine Vision and Image Processing",
+      "textPreview": "Machine Vision and Image Processing",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Machine Vision and Image Processing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Machine Vision and Image Processing",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Machine Vision and Image Processing",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "21",
+      "bbox": [
+        472,
+        448,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "92/100",
+      "textPreview": "92/100",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "color": "#1F5F99",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "92/100"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "92/100",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Aptos",
+            "color": "#1F5F99",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "92/100",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#1F5F99",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "22",
+      "bbox": [
+        650,
+        200,
+        506,
+        330
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D7E6EE",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "23",
+      "bbox": [
+        680,
+        230,
+        380,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Selected links",
+      "textPreview": "Selected links",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos Display",
+        "color": "#0B1F33",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Selected links"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Selected links",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos Display",
+            "color": "#0B1F33",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Selected links",
+              "fontSize": 22,
+              "typeface": "Aptos Display",
+              "color": "#0B1F33",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "24",
+      "bbox": [
+        682,
+        278,
+        420,
+        210
+      ],
+      "geometry": "rect",
+      "text": "Personal website\nhttps://lssnake0105.github.io/profile/\n\nGitHub\nhttps://github.com/lssnake0105\n\nRepresentative repositories\nDFF reconstruction, solar-cell crack detection,\ndepth-ratio detector, glass material explorer",
+      "textPreview": "Personal website | https://lssnake0105.github.io/profile/ |  | GitHub | https://github.com/lssnake0105 |  | Representative repositories |...",
+      "resolvedFontSize": 15.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15.51,
+        "typeface": "Aptos",
+        "color": "#1D2B3A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Personal website"
+          },
+          {
+            "index": 2,
+            "text": "https://lssnake0105.github.io/profile/"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "GitHub"
+          },
+          {
+            "index": 5,
+            "text": "https://github.com/lssnake0105"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "Representative repositories"
+          },
+          {
+            "index": 8,
+            "text": "DFF reconstruction, solar-cell crack detection,"
+          },
+          {
+            "index": 9,
+            "text": "depth-ratio detector, glass material explorer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Personal website",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Personal website",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "https://lssnake0105.github.io/profile/",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "https://lssnake0105.github.io/profile/",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "GitHub",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GitHub",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "https://github.com/lssnake0105",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "https://github.com/lssnake0105",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "Representative repositories",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Representative repositories",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "DFF reconstruction, solar-cell crack detection,",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DFF reconstruction, solar-cell crack detection,",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "depth-ratio detector, glass material explorer",
+          "resolvedTextStyle": {
+            "fontSize": 15.51,
+            "typeface": "Aptos",
+            "color": "#1D2B3A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "depth-ratio detector, glass material explorer",
+              "fontSize": 15.51,
+              "typeface": "Aptos",
+              "color": "#1D2B3A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/epkzupwb",
+      "id": "25",
+      "bbox": [
+        860,
+        386,
+        230,
+        118
+      ],
+      "alt": "Glass material explorer preview",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "0c50d9aa-3494-4de0-a639-b6bb205b492a",
+        "contentType": "image/jpeg",
+        "byteLength": 38852
+      }
+    }
+  ],
+  "composeRuns": []
+}

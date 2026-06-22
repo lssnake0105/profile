@@ -1,0 +1,115 @@
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} 
+\usepackage{linespacing_fix}
+\usepackage{cite}
+\usepackage{hyperref}
+\begin{document}
+\pagenumbering{gobble}
+\small
+
+
+%***"%"后面的所有内容是注释而非代码，不会输出到最后的PDF中
+%***使用本模板，只需要参照输出的PDF，在本文档的相应位置做简单替换即可
+%***修改之后，输出更新后的PDF，只需要点击Overleaf中的“Recompile”按钮即可
+%**********************************姓名********************************************
+\name{李申适}
+%**********************************联系信息****************************************
+%第一个括号里写手机号，第二个写邮箱
+\contactInfo{(+86) 13192370957}{3230105050@zju.edu.cn}
+%**********************************其他信息****************************************
+%在大括号内填写其他信息，最多填写4个，但是如果选择不填信息，
+%那么大括号必须空着不写，而不能删除大括号。
+%\otherInfo后面的四个大括号里的所有信息都会在一行输出
+%如果想要写两行，那就用两次这个指令（\otherInfo{}{}{}{}）即可
+\otherInfo{性别: 男}{籍贯: 广东汕头}{}{}
+%\otherInfo{来历：钱钟书《围城》}{}{}{}
+%*********************************照片**********************************************
+%照片需要放到images文件夹下，名字必须是you.jpg，如果不需要照片可以不添加此行命令
+%0.15的意思是，照片的宽度是页面宽度的0.15倍，调整大小，避免遮挡文字
+\yourphoto{0.15}
+%**********************************正文**********************************************
+
+
+%***大标题，下面有横线做分割
+%***一般的标题有：教育背景，实习（项目）经历，工作经历，自我评价，求职意向，等等
+\section{教育背景}
+
+
+%***********一行子标题**************
+%***第一个大括号里的内容向左对齐，第二个大括号里的内容向右对齐
+%***\textbf{}括号里的字是粗体，\textit{}括号里的字是斜体
+\datedsubsection{\textbf{汕头市金山中学}， \textit{高中}}{2020.09 - 2023.06}
+
+
+%***********列举*********************
+%***可添加多个\item，得到多个列举项，类似的也可以用\textbf{}、\textit{}做强调
+
+
+\datedsubsection{\textbf{浙江大学}，\textbf{光电科学与工程学院}，\textbf{光电信息科学与工程}，\textit{本科}}{2023.08 - 2027.06（预计）}
+\begin{itemize} [parsep=1ex]
+  \item \textbf{学业表现}：学业平均绩点 3.94/4（4.42/5）；学业成绩综合排名 18/103
+  \item \textbf{荣誉奖项}：2024年\textit{国家奖学金}、2025年\textit{浙江大学一等奖学金}、\textit{优秀学生}、\textit{学业优秀标兵}、\textit{对外交流标兵}、2025年光电学院\textit{陈君实-优秀学生干部奖学金}、2024-2025学年\textit{校级优秀团员}
+  \item \textbf{核心课程}：硅光子学96、电磁场与电磁波94、物理光学92、光学系统设计93、机器视觉与图像处理92
+  \item \textbf{校园任职}：共青团员、光电2303班\textit{班长}；智能光电芯片2501班学长组成员；浙大潮汕同乡会理事会成员
+
+\end{itemize}
+
+\section{项目经历}
+
+\datedsubsection{\textbf{十三届全国大学生光电设计竞赛-大深径比参数的光学无损测量}\quad\href{https://person.zju.edu.cn/cfkuang}{\textit{匡翠方}}\quad\textit{区赛二等奖}} {2025.07}
+\begin{itemize}[parsep=0.5ex]
+\item 针对微电子、微流控等领域中大深径比微孔的无损测量难题，提出基于共聚焦显微技术的测量系统;通过共聚焦层析扫描技术实现微孔深度、孔径等参数的非接触式测量。
+\item 基于OpenCV开发测量软件：采用霍夫圆变换以及最小二乘法拟合算法，支持手动自动的双模态孔径识别模式，并完成深径比的自动计算及输出。
+\end{itemize}
+
+\datedsubsection{\textbf{十三届全国大学生光电设计竞赛“宇瞳杯”光学设计赛道}\quad\href{https://www.aminer.cn/profile/yuan-fang-lin/56cb18bbc35f4f3c6565f1d4}{\textit{林远芳}}\quad\textit{初赛}}{2025.07}
+\begin{itemize}[parsep=0.5ex]
+\item 使用 Zemax 完成微单镜头光学设计，优化结构并进行无热化、鬼像等分析，确保焦距，MTF 等性能达标; 完成成本与公差分析，设计镜筒装配方案，蒙特卡洛模拟得90\%良品率，验证设计可行性。
+\end{itemize}
+
+\datedsubsection{\textbf{基于三维变焦重建与深度学习的多材料表面缺陷检测技术}\quad\href{https://wangkaiwei.org/index.html}{\textit{汪凯巍}}\quad\textit{校级SRTP}} {2025.04 - 至今}
+\begin{itemize}[parsep=0.5ex]
+  \item \textit{负责}项目整体规划、实验平台搭建、构建深度学习框架等工作。计划通过训练一个融合深度学习的DFF模型，开发一种可检测金属、陶瓷、高分子等异质材料表面多种缺陷类型的缺陷检测系统。
+\end{itemize}
+
+\datedsubsection{\textbf{基于 LEGO 的荧光显微镜设计与搭建}\quad\href{https://person.zju.edu.cn/0618248}{\textit{韩于冰}}\quad\textit{浙大光电学院科研family}}{2024.11 - 2025.06}
+\begin{itemize}[parsep=0.5ex]
+  \item \textit{负责}显微镜机械结构设计，使用LEGO Studio软件设计仅由LEGO零件组成的多个显微镜部件模块，与团队使用Zemax进行光路设计并制作了光学显微镜成品。
+\end{itemize}
+
+\datedsubsection{\textbf{浙江大学云峰学园第二届数据可视化大赛}\quad\textit{一等奖}}{2024.06}
+
+\section{个人经历}
+
+
+
+\datedsubsection{\textbf{浙江大学2024年、2025年暑期社会实践}\quad\textit{负责人}\quad\textit{云峰学院十佳队伍}}{2024.08、2025.08}
+\begin{itemize}[parsep=0.5ex]
+ \item \textit{组建}“反哺家乡教育，传播传统文化”暑期社会实践队伍，于揭阳市榕城区地都中学进行支教。
+ \item \textit{领导} 完成地都镇大型沙盘手工制作，担任主要策划与设计工作，成果展示于地都镇人民政府。
+ \item 团队成果获得广东省百千万工程大学生突出贡献奖。
+\end{itemize}
+
+\datedsubsection{\textbf{2024年浙江省大学生物理创新竞赛}\qquad\textit{二等奖}}{2024.12}
+
+
+\datedsubsection{\textbf{2024年“浙江大学全球浙大校友行”}\quad\textit{团队二等奖}}{2024.07}
+\begin{itemize}[parsep=0.5ex]
+\item \textit{参加}浙江大学求是学院2024美国交流项目，访问麻省理工学院、哈佛大学等美国高校。
+\end{itemize}
+
+\datedsubsection{\textbf{浙江大学求是学院科研启蒙训练营}\quad\textit{营员}}{2024.05 - 2024.09}
+\begin{itemize}[parsep=0.5ex]
+  \item \textit{在}浙江大学电磁波中心\textit{实习},\textit{完成}课题申报书写作、文献综述写作、数据可视化分析、科研成果海报制作等
+\end{itemize}
+
+
+\section{个人技能}
+\begin{itemize}[parsep=0.5ex]
+  \item \textbf{语言能力}：TOEFL 108（R28, L30, S23, W27）；CET-6 598；第二十九届“21世纪杯”全国英语演讲比赛二等奖
+  \item \textbf{编程与软件}：熟悉 C/C++、Python；熟练使用 SolidWorks、MATLAB、Simulink、Zemax、AutoCAD
+  \item \textbf{写作与设计}：精通 LaTeX、Markdown等写作语言；熟练运用 Overleaf、Obsidian、Office、Photoshop、Canva、秀米、剪映进行出版物或多媒体制作
+  \item \textbf{兴趣特长}：浙江大学 MOC 清唱团男中音、后勤部部长，参加\textit{2025年浙江大学新年狂欢夜}演出；浙江大学夸父长跑联盟成员
+\end{itemize}
+
+\end{document}
